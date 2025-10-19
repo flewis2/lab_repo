@@ -1,0 +1,13 @@
+# Ignore Terraform State Files
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate 
+*.tfstate.*.backup
+
+# Ignore Executables
+*.exe
+*.msi
+
+# Ignore Scripts
+*.sh
+*.ps1
