@@ -9,5 +9,5 @@ terraform.tfstate.backup
 *.msi
 
 # Ignore Scripts
-*.sh
-*.ps1
+#*.sh
+#*.ps1
